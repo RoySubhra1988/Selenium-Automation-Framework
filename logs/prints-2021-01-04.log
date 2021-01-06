@@ -1,0 +1,7 @@
+23:59:45.791 [TestNG-tests-1] INFO  resources.Base - LoginPage get login method ha sbeen called
+23:59:45.919 [TestNG-tests-1] INFO  resources.Base - User name has been entered
+23:59:45.975 [TestNG-tests-1] INFO  resources.Base - Password has been entered
+23:59:45.975 [TestNG-tests-1] INFO  resources.Base - Restrcited User
+23:59:47.048 [TestNG-tests-1] INFO  resources.Base - Navigated to the QA Click Academy
+23:59:47.048 [TestNG-tests-1] INFO  resources.Base - LandingPage Object has been created
+23:59:48.263 [TestNG-tests-1] INFO  resources.Base - LoginPage get login method ha sbeen called

@@ -1,0 +1,5 @@
+12:57:53.064 [TestNG-tests-1] INFO  resources.Base - Restrcited User
+12:57:53.769 [TestNG-tests-1] INFO  resources.Base - Send me Instraction is clicked
+12:57:54.716 [TestNG-tests-1] INFO  resources.Base - Url is launched
+12:57:55.806 [TestNG-tests-1] INFO  resources.Base - Non restricted user
+12:57:56.497 [TestNG-tests-1] INFO  resources.Base - Send me Instraction is clicked

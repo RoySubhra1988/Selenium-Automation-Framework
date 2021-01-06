@@ -1,0 +1,7 @@
+20:30:51.549 [TestNG-tests-1] INFO  resources.Base - Driver is initialized
+20:30:58.229 [TestNG-tests-3] INFO  resources.Base - Navigated to Home page
+20:30:58.280 [TestNG-tests-3] INFO  resources.Base - Successfully validated Text message
+20:30:59.103 [TestNG-tests-2] INFO  resources.Base - Navigated to the Qa Click Academy
+20:30:59.165 [TestNG-tests-2] INFO  resources.Base - Navigation Bar is displayed
+20:31:21.597 [TestNG-tests-1] INFO  resources.Base - Url is launched
+20:31:25.147 [TestNG-tests-1] INFO  resources.Base - Restrcited User

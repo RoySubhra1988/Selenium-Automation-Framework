@@ -1,0 +1,7 @@
+23:10:20.839 [main] INFO  resources.Base - Navigation Bar is displayed
+23:10:20.888 [main] INFO  resources.Base - Successfully validated Text message
+23:10:27.790 [main] INFO  resources.Base - LoginPage get login method ha sbeen called
+23:10:27.918 [main] INFO  resources.Base - User name has been entered
+23:10:27.986 [main] INFO  resources.Base - Password has been entered
+23:10:27.986 [main] INFO  resources.Base - Restrcited User
+23:10:29.570 [main] INFO  resources.Base - LoginPage get login method ha sbeen called

@@ -1,0 +1,7 @@
+12:57:49.918 [TestNG-tests-3] INFO  resources.Base - Navigated to Home page
+12:57:49.934 [TestNG-tests-3] INFO  resources.Base - Title is called
+12:57:49.964 [TestNG-tests-3] INFO  resources.Base - Successfully validated Text message
+12:57:50.150 [TestNG-tests-2] INFO  resources.Base - Navigated to the Qa Click Academy
+12:57:50.151 [TestNG-tests-2] INFO  resources.Base - NavBar is called
+12:57:50.211 [TestNG-tests-2] INFO  resources.Base - Navigation Bar is displayed
+12:57:50.346 [TestNG-tests-1] INFO  resources.Base - Url is launched
